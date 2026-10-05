@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>Gestão de Contratos SUDECO</title>
+    <meta name="description" content="Protótipo de sistema de gestão de contratos e penalidades da SUDECO">
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+    <style>:root{padding:0}html,body{height:100%}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<div class="app">
+  <aside class="rail">
+    <div class="brand">
+      <div class="logo">SC</div>
+      <div><b>SUDECO</b><span>Contratos</span></div>
+    </div>
+    <nav class="nav" id="nav"></nav>
+    <div class="foot">
+      Protótipo de demonstração.<br>Dados reais de <b>29/09/2026</b>, importados da planilha de gestão.
+    </div>
+  </aside>
+  <div class="main">
+    <header class="topbar">
+      <h1 id="viewtitle">Painel</h1>
+      <span class="proto-tag">Protótipo</span>
+      <span class="spacer"></span>
+      <button class="iconbtn" id="theme" title="Alternar tema" aria-label="Alternar tema"></button>
+    </header>
+    <main class="content" id="content"></main>
+  </div>
+</div>
+<div class="overlay" id="overlay" hidden></div>
+<aside class="panel" id="panel" hidden aria-modal="true" role="dialog"></aside>
+<div class="toast" id="toast"></div>
+    <script src="assets/store.js"></script>
+    <script src="assets/app.js"></script>
+</body>
+</html>

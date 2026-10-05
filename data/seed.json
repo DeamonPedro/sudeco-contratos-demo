@@ -1,0 +1,2232 @@
+{
+ "generated_at": "2026-09-29",
+ "source": "contracts.xlsx",
+ "contracts": [
+  {
+   "company": "FUNDAÇÃO DE ESTUDOS AGRÁRIOS LUIZ DE QUEIROZ - FEALQ",
+   "number": "15/2024",
+   "process": "59800.001786/2023-12",
+   "category": "Apoio a ensino, pesquisa, extensão e inovação",
+   "object": "Desenvolvimento institucional, científico e tecnológico e estímulo à inovação, nos termos do Plano de Trabalho aprovado",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 105137.5,
+   "initial_value": 1261650,
+   "current_value": 1261650,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Prorrogação",
+   "progress": "",
+   "people": [
+    {
+     "name": "Raquel Porto Santoni",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "João Paulo Bastista Cabral",
+     "role": "Fiscal Titular"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "12 meses",
+   "start_date": "2024-10-18",
+   "end_date": "2026-10-18",
+   "extended": true,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "BRS SUPRIMENTOS CORPORATIVOS S.A",
+   "number": "08/2021",
+   "process": "59800.001065/2020-51",
+   "category": "Almoxarifado virtual",
+   "object": "Almoxarifado virtual",
+   "owner": "Rafael",
+   "law": "Lei n. 8.666",
+   "monthly_value": 2117.94,
+   "initial_value": 59288.06,
+   "current_value": 63538.32,
+   "has_apostille": true,
+   "apostille_text": "1º Termo de Apostilamento (0268531) - Retificação do valor estimado da contratação\n2º Termo de Apostilamento (0324559) - Reajuste contratual de 7,17%",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Registro da incorporação da empresa contratada pela empresa BRS SP SUPRIMENTOS CORPORATIVOS S/A\n2º Termo Aditivo - Prorrogação",
+   "progress": "Aguardadndo assinatura do Despacho de autorização para prorrogação excepcional; Em elaboração TA para prorrogação excepcional",
+   "people": [
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Gestor"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "30 meses",
+   "start_date": "2021-11-22",
+   "end_date": "2026-11-22",
+   "extended": true,
+   "extendable": false,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 2,
+   "apostille_count": 2,
+   "indefinite_end": false
+  },
+  {
+   "company": "TIM S.A",
+   "number": "07/2021",
+   "process": "59800.000623/2020-61",
+   "category": "Telefonia",
+   "object": "Telefonia móvel",
+   "owner": "Renan",
+   "law": "Lei n. 8.666",
+   "monthly_value": 1105.84,
+   "initial_value": 30489.6,
+   "current_value": 33175.2,
+   "has_apostille": true,
+   "apostille_text": "1º Termo de Apostilamento (0391524) - Reajuste contratual de 6,54% e 2,14%",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Prorrogação",
+   "progress": "Nova contratação pelo processo 59800.000763/2026-25. Atualmente a área esta em fase de elaboração do ETP e mapa de riscos , TR e pesquisa de preços",
+   "people": [
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Gestora Substituto"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Fical Titular Adriano de Souza Bezerra"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "36 meses",
+   "start_date": "2021-12-08",
+   "end_date": "2026-12-08",
+   "extended": true,
+   "extendable": false,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 1,
+   "indefinite_end": false
+  },
+  {
+   "company": "FAST HELP INFORMATICA LTDA",
+   "number": "08/2025",
+   "process": "59800.000665/2024-26",
+   "category": "TI",
+   "object": "Firewall (NGFW)",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": 5157.97,
+   "initial_value": 61895.71,
+   "current_value": 61895.71,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "* Processo em fase de planejamento da nova contratação, aguardando retorno da CTIC",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Leandro Ferreria Lima",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "12 meses",
+   "start_date": "2025-12-30",
+   "end_date": "2026-12-30",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)",
+   "number": "04/2025",
+   "process": "59800.000387/2025-98",
+   "category": "TI",
+   "object": "Emissão de certificados digitais do tipo A1, destinados à validação institucional da Autarquia (CNPJ)",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": 85.56,
+   "initial_value": 1026.8,
+   "current_value": 1026.8,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "Finalizando elaboração dos documentos referentes a prorrogação contratual",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Leandro Ferreria Lima",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "12 meses",
+   "start_date": "2026-01-07",
+   "end_date": "2027-01-07",
+   "extended": true,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)",
+   "number": "05/2025",
+   "process": "59800.000387/2025-98",
+   "category": "TI",
+   "object": "Emissão de certificados digitais do tipo A3, destinados à validação dos servidores e colaboradores da Autarquia (CPF)",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": 240.77,
+   "initial_value": 2889.3,
+   "current_value": 2889.3,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "Finalizando elaboração dos documentos referentes a prorrogação contratual",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Leandro Ferreria Lima",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "12 meses",
+   "start_date": "2026-01-07",
+   "end_date": "2027-01-07",
+   "extended": false,
+   "extendable": null,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "ABL POWER SOLUÇÕES EM ENERGIA LTDA",
+   "number": "01/2025",
+   "process": "59800.000235/2025-95",
+   "category": "TI",
+   "object": "Nobreak",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 3980,
+   "initial_value": 47760,
+   "current_value": 47760,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Prorrogação",
+   "progress": "*Solicitada à CTIC manifestação sobre a prorrogação do contrato e avaliação da execução contratual, com prazo de 5 dias úteis para retorno. Encaminhado em 11/08/2026 e aguardando manifestação da área técnica. (SEI0489035)",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Fiscal Substituta"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "12 meses",
+   "start_date": "2025-02-28",
+   "end_date": "2027-02-28",
+   "extended": true,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "TECHNOCOPY SERVICE EIRELI",
+   "number": "04/2021",
+   "process": "59800.002520/2020-36",
+   "category": "Impressão",
+   "object": "Impressão",
+   "owner": "Mariany",
+   "law": "Lei n. 8.666",
+   "monthly_value": 6405.44,
+   "initial_value": 74922.57,
+   "current_value": 75188.57,
+   "has_apostille": true,
+   "apostille_text": "1° Termo de Apostilamento (0420636) - Reajuste contratual de 1,71%                                                                                          2° Termo de Apostilamento (0479403 - Reajuste contratual de 2,23%",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Prorrogação / Redução do valor contratual em 15,21%\n2° Termo Aditivo - Redução no valor contratual em 2,44%\n3° Termo Aditivo - Prorrogação \n4° Termo Aditivo - Prorrogação\n5° Termo Aditivo - Prorrogação\n6° Termo Aditivo - Acréscimo no valor cotratual em 19,27%\n7° Termo Aditivo - Prorrogação excepcional",
+   "progress": "*Novo processo licitatório 59800.001383/2025-27",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Leandro Ferreria Lima",
+     "role": "Gestor Substituto"
+    },
+    {
+     "name": "Georfia Carolina Capistrano",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "12 meses",
+   "start_date": "2021-03-03",
+   "end_date": "2027-03-03",
+   "extended": true,
+   "extendable": false,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 7,
+   "apostille_count": 2,
+   "indefinite_end": false
+  },
+  {
+   "company": "3CORP SERVICOS DE TECNOLOGIA",
+   "number": "02/2023",
+   "process": "59800.001506/2022-87",
+   "category": "Telefonia",
+   "object": "Telefonia FIXA",
+   "owner": "Renan",
+   "law": "Lei n. 8.666",
+   "monthly_value": 4836.71,
+   "initial_value": 53971.6,
+   "current_value": 58040.48,
+   "has_apostille": true,
+   "apostille_text": "1º Termo de Apostilamento (0406989) - Reajuste contratual 2,36%                                                                                                                                        2° Termo de Apostilamento (0459384) - Reajuste contratual 5,08%",
+   "has_amendment": true,
+   "amendment_text": "1º Termo Aditivo - Prorrogação \n2º Termo Aditivo -  Prorrogação\n3º Termo Aditivo - Troca de CNPJ pela incorporada\n4º Termo Aditivo - Prorrogação",
+   "progress": "*22/09/2026 iniciado tramites para prorrogação contratual, despacho sobre interesse na prorrogação do contrato para área.",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Leandro Fereira Lima",
+     "role": "Fiscal"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "12 meses",
+   "start_date": "2023-04-11",
+   "end_date": "2027-04-10",
+   "extended": true,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 4,
+   "apostille_count": 2,
+   "indefinite_end": false
+  },
+  {
+   "company": "CAIXA ECONÔMICA FEDERAL - CEF",
+   "number": "05/2024",
+   "process": "59800.000551/2024-86",
+   "category": "Repasse",
+   "object": "Gestão operacional para finalização das etapas remanescentes dos contratos de repasse firmados a partir de 2018",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 101678.32,
+   "initial_value": 3660419.65,
+   "current_value": 3660419.65,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Manoel Mescia Costa",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Larissa de Lavor Martinelli Pitrez",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "André Celso Viana de Lima",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Larissa de Lavor Martinelli Pitrez",
+     "role": "Fiscal Substituta"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "36 meses",
+   "start_date": "2024-05-14",
+   "end_date": "2027-05-14",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "WR NATURIZE AMBIENTAL LTDA",
+   "number": "08/2024",
+   "process": "59800.001128/2023-12",
+   "category": "Conservação e limpeza",
+   "object": "Dedetização",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": 252.44,
+   "initial_value": 5744,
+   "current_value": 3029.32,
+   "has_apostille": true,
+   "apostille_text": "1º Termo de Apostilamento (0444264) - Reajuste contratual 5,47%",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Prorrogação",
+   "progress": "*Aguardando apresentação, pela empresa, da garantia renovada do Termo Aditivo",
+   "people": [
+    {
+     "name": "Adriano de Sousa Bezerra",
+     "role": "Gestor"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Jane Hecilia de Souza Duas",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "28/06/2027",
+   "end_date": "2027-06-27",
+   "extended": true,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 1,
+   "indefinite_end": false
+  },
+  {
+   "company": "CAIXA ECONÔMICA FEDERAL - CEF",
+   "number": "06/2021",
+   "process": "59800.000080/2021-63",
+   "category": "Repasse",
+   "object": "Repasse",
+   "owner": "Mariany",
+   "law": "Lei n. 8.666",
+   "monthly_value": null,
+   "initial_value": 15000000,
+   "current_value": 15000000,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Prorrogação Excepcional",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Thaisa Brostel Danguer Guimarães",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "André Celso Viana de Lima",
+     "role": "Fiscal Titular"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "36 meses",
+   "start_date": "2021-06-28",
+   "end_date": "2027-06-28",
+   "extended": true,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "BSB PA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+   "number": "10/2014",
+   "process": "59800.000104/2014-55",
+   "category": "Locação de imóvel.",
+   "object": "Locação de imóvel.",
+   "owner": "Rafael",
+   "law": "Lei n. 8.666",
+   "monthly_value": 270656.61,
+   "initial_value": 10122200,
+   "current_value": 1353283.05,
+   "has_apostille": true,
+   "apostille_text": "1º Termo de Apostilamento (0000408) - Reajuste no condominio de 6,97% \n2º Termo de Apostilamento (0007286) - Reajuste no aluguel de 11,63%\n3º Termo de Apostilamento (0095986)  - Reajuste no aluguel de 6,92%\n4º Termo de Apostilamento (0147233)-  Reajuste no aluguel de 6,51%\n5 º Termo de Apostilamento - (0161007) Reajuste no condominio de 6,97%\n6º Termo de Apostilamento (0201437) - Reajuste no condomio \n7º Termo de Apostilamento (0239719) - Reajuste no aluguel de 7,31%\n8º Termo de Apostilamento (0239719)- Reajuste no condomínio \n9º Termo de Apostilamento (0303446)- Reajuste no condominio 7,96%\n10º Termo de Apostilamento (0305105) - Reajuste no aluguel de 10,70%\n11º Termo de Apostilamento (0331141) - Reajuste no condominio de 15,02%\n12º Termo de Apostilamento (0377505) - Reajuste no condominio de 9,89%\n13° Termo de Apostilamento (0419518) - Reajuste no aluguel de 2,45%\n14° Termo de Apostilamento  (0434488) - Reajuste no condominio de 1,43%\n15° Termo de Apostilamento (0449199) - Reajuste no aluguel de 4,38%\n16° Termo de Apostilamento (0463047) - Reajuste no condominio de 3,69%",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo -  Incorporação da empresa Contratada pela empresa BR PROPERTIES S.A\n2° Termo Aditivo - Desconto de 30,80303% no valor a partir de 04/07/2017 / Alteração da data base para 01/07/2017 / Prorrogação até 30/06/2022 / Alteração do objeto do Contrato / Inclusão do subitem 3.1.15\n3° Termo Aditivo - incorporação da empresa Contratada pela empresa BR PROPERTIES S.A\n4° Termo Aditivo - Prorrogação até 30/06/2026 / Redução do valor do aluguel de R$ 170.385,40 para R$ 155.891,95 a partir de 01/07/2024 / Isenção de reajuste no ano de 2021 \n5° Termo Aditivo -  Alteração do item 5.1 / Inclusão da Cláusula Terceira - Da Dotação Orçamentária.\n6° Termo Aditivo - Alienação do imóvel                            7° Termo aditivo - Prorrogação de vigência",
+   "progress": "Nota Técnica elaborada pela CLC e encaminhamento à Procuradoria Federal para análise jurídica sobre a possibilidade de nova prorrogação do Contrato nº 10/2014. (SEI0488851); Aguardando emissão de Nota de empenho referente a solicitação de reajuste (IGPM); Elaborado Despacho referente a solicitação de Disponibilidade orçamentária referente ao pagamento de taxa extra, aguardando assinatura.",
+   "people": [
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora"
+    },
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Substituto"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Substituta"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "60 meses",
+   "start_date": "2014-08-25",
+   "end_date": "2027-06-30",
+   "extended": true,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 7,
+   "apostille_count": 16,
+   "indefinite_end": false
+  },
+  {
+   "company": "SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)",
+   "number": "13/2024",
+   "process": "59800.001351/2024-41",
+   "category": "TI",
+   "object": "Computação em nuvem, sob demanda",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": 26749.6,
+   "initial_value": 307229.61,
+   "current_value": 369911.55,
+   "has_apostille": true,
+   "apostille_text": "1º Termo de Apostilamento (0459386) - Reajuste contratual de 4,44%",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Prorrogação                                                2° Termo Aditivo - Prorrogação e acréscimo contratual.",
+   "progress": "OK",
+   "people": [],
+   "has_penalty": false,
+   "initial_term": "12 meses",
+   "start_date": "2024-09-20",
+   "end_date": "2027-09-20",
+   "extended": true,
+   "extendable": null,
+   "status": "ATIVO",
+   "dirty": true,
+   "apostille_count": 1,
+   "amendment_count": 2,
+   "indefinite_end": false
+  },
+  {
+   "company": "LANLINK SOLUÇÕES E COMERCIALIZAÇÃO EM INFORMÁTICA S/A",
+   "number": "05/2023",
+   "process": "59800.000097/2023-82",
+   "category": "TI",
+   "object": "Software de backup e recovery",
+   "owner": "Mariany",
+   "law": "Lei n. 8.666",
+   "monthly_value": 7155.49,
+   "initial_value": 246018.23,
+   "current_value": 85865.94,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Prorrogação",
+   "progress": "* Aguardando atualização do site para publicação do 1º Termo Aditivo.",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Leandro Ferreria Lima",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "36 meses",
+   "start_date": "2023-06-30",
+   "end_date": "2027-06-30",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "CAIXA ECONÔMICA FEDERAL - CEF",
+   "number": "12/2024",
+   "process": "59800.000421/2024-43",
+   "category": "Repasse",
+   "object": "Gestão operacional para execução dos contratos de repasse",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": null,
+   "initial_value": 18000000,
+   "current_value": 18000000,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo -  Inclusão do Termo Único de Credenciamento nº 1/2025",
+   "progress": "* Aguardando publicação no DOU",
+   "people": [
+    {
+     "name": "André Celso Viana de Lima",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Manuel Méscia Costa",
+     "role": "Gestor Substituto"
+    },
+    {
+     "name": "André Celso Viana de Lima",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Manuel Méscia Costa",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "36 meses",
+   "start_date": "2024-09-26",
+   "end_date": "2027-09-26",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 2,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "TM VEÍCULOS E SERVIÇOS LTDA - ME",
+   "number": "07/2025",
+   "process": "59800.000280/2025-40",
+   "category": "Veiculos e motoristas",
+   "object": "Veiculos e motoristas",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 4400,
+   "initial_value": 105600,
+   "current_value": 105600,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Jane Hercilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituta"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "2025-12-02",
+   "end_date": "2027-12-02",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "EMPRESA BRASIL DE COMUNICAÇÃO - EBC",
+   "number": "12/2022",
+   "process": "59800.001212/2022-55",
+   "category": "Plublicação de Edital",
+   "object": "Plublicação de Edital",
+   "owner": "Rafael",
+   "law": "Lei n. 8.666",
+   "monthly_value": 3221.04,
+   "initial_value": 193262.7,
+   "current_value": 193262.7,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Genice Barbosa Crisóstomo de Souza",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "Paula Correia de Brito",
+     "role": "Fiscal Titular"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "60 meses",
+   "start_date": "2022-12-22",
+   "end_date": "2027-12-22",
+   "extended": false,
+   "extendable": false,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "BRASOFTWARE INFORMATICA LTDA",
+   "number": "18/2024",
+   "process": "59800.001447/2024-17",
+   "category": "TI",
+   "object": "Licenças Microsoft",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": null,
+   "initial_value": 2010946.84,
+   "current_value": 2010946.84,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "*Pedido de reajuste analisado e aprovado pela Procuradoria Federal. Processo encaminhado à DA para providências. (SEI0490102)",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Leandro Ferreria Lima",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": true,
+   "initial_term": "36 meses",
+   "start_date": "2024-12-26",
+   "end_date": "2027-12-26",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "CAIXA ECONÔMICA FEDERAL - CEF",
+   "number": "09/2025",
+   "process": "59800.001907/2025-80",
+   "category": "Repasse",
+   "object": "Prestação de serviços de apoio técnico-operacional no âmbito dos convênios firmados por esta Superintendência, conforme condições, quantidades e exigências estabelecidas no Termo de Referência",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": 44110.33,
+   "initial_value": 1058648,
+   "current_value": 1058648,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Manoel Mescia Costa",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "André Celso Viana de Lima",
+     "role": "Fiscal"
+    },
+    {
+     "name": "Durcinéia Abreu Saldanha da Cruz",
+     "role": ""
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "2025-12-31",
+   "end_date": "2027-12-31",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "RICO SOLUÇÕES & SERVIÇO LTDA",
+   "number": "07/2026",
+   "process": "59800.000203/2026-71",
+   "category": "Veiculos e motoristas",
+   "object": "Locação de veículos com fornecimento de motorista -  DF",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": 23099,
+   "initial_value": 554376,
+   "current_value": 554376,
+   "has_apostille": true,
+   "apostille_text": "1° Termo de Apostilamento (0484075)- Retificar a Planilha de Formação de Custos originalmente apresentada",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "Em elaboração Termo Aditivo referente ao reembolso-creche",
+   "people": [
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor"
+    },
+    {
+     "name": "Adriana Schelb Da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Michel Alexandre Turco",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Leandro Ferreira Lima",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "2026-02-09",
+   "end_date": "2028-02-09",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 1,
+   "indefinite_end": false
+  },
+  {
+   "company": "FAST AUTOMOTIVE E TURISMO LTDA EP",
+   "number": "06/2026",
+   "process": "59800.000201/2026-81",
+   "category": "Veiculos e motoristas",
+   "object": "Serviços contínuos de locação de veículos com fornecimento de motorista- RIDE em Minas Gerais/MG",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": 3598,
+   "initial_value": 86352,
+   "current_value": 86352,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestor Substituto"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "2026-02-09",
+   "end_date": "2028-02-09",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "RICO SOLUÇÕES & SERVIÇO LTDA",
+   "number": "04/2026",
+   "process": "59800.000202/2026-26",
+   "category": "Veiculos e motoristas",
+   "object": "Serviços contínuos de locação de veículos com fornecimento de motorista- RIDE em Goias/GO",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": 9291.96,
+   "initial_value": 223007.04,
+   "current_value": 223007.04,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "2026-02-09",
+   "end_date": "2028-02-09",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "FAST AUTOMOTIVE E TURISMO LTDA EP",
+   "number": "05/2026",
+   "process": "59800.000204/2026-15",
+   "category": "Veiculos e motoristas",
+   "object": "Serviços contínuos de locação de veículos com fornecimento de motorista- Mato Grosso do Sul/MS",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": 7336,
+   "initial_value": 176064,
+   "current_value": 176064,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Ilda Maria de Jesus",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "2026-02-09",
+   "end_date": "2028-02-09",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "ALFA E OMEGA",
+   "number": "08/2026",
+   "process": "59800.000705/2025-11",
+   "category": "Apoio administrativo",
+   "object": "Terceirização de mão de obra",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": 509801.46,
+   "initial_value": 12235235.05,
+   "current_value": 12235235.05,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "* Nota técnica encaminhada para procuradoria em 11/09/2026 sobre benefício plano odontológico na CCT.\n*  Evento de abertura de conta vinculada já eberto e encaminhado para DILOG para procedimento de deposoitos na conta.\n* Reembolso creche e Repactuação 2026 aguardando empenho, já solicitado.",
+   "people": [
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Jane Hercilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Sousa Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "2026-04-01",
+   "end_date": "2028-04-01",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "IOS INFORMÁTICA ORGANIZAÇÃO E SISTEMAS LTDA",
+   "number": "04/2024",
+   "process": "59800.000608/2023-66",
+   "category": "TI",
+   "object": "Serviços de TIC",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": 34098.85,
+   "initial_value": 742080,
+   "current_value": 818372.42,
+   "has_apostille": true,
+   "apostille_text": "1º Termo de Apostilamento (0459942)- Reajuste contratual 5,26%",
+   "has_amendment": true,
+   "amendment_text": "1º Termo Aditivo - Prorrogação",
+   "progress": "* CTIC manifestou por meio da nota em 16/09 pela adequação a reoneração do contrato, foi solicitado para empresa em 18/09 a planilha de custos com o impacto da reoneração sobre os itens do contrato para verificação.",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Gestor Substituto"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Leandro Ferreria Lima",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "24 meses",
+   "start_date": "2024-05-03",
+   "end_date": "2028-05-03",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 1,
+   "indefinite_end": false
+  },
+  {
+   "company": "(empresa não informada)",
+   "number": "07/2023",
+   "process": "59800.000992/2023-05",
+   "category": "Conservação e limpeza",
+   "object": "Serviços de Limpeza",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 29428.09,
+   "initial_value": 1520353.97,
+   "current_value": 1765685.62,
+   "has_apostille": true,
+   "apostille_text": "1° Termo de Apostilamento (0382555) - Repactuação CCT 2024\n2° Termo de Apostilamento (0428552) - Repactuação CCT 2025\n3° Termo de Apostilamento (0437668) - Reajuste nos materiais e insumos de 4,87%\n4° Termo de Apostilamento  (0472269) - Repactuação CCT 2026 / reajuse nos materiais e insumos de 4,46%",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Redução na jornada de trabalho",
+   "progress": "* Aguardando empenho para aplicação do reembolso-creche\n *Aguardando o retorno da procuradoria",
+   "people": [
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "60 meses",
+   "start_date": "2023-12-15",
+   "end_date": "2028-12-15",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 4,
+   "indefinite_end": false
+  },
+  {
+   "company": "MRC SISTEMAS E CONSULTORIA LTDA",
+   "number": "02/2026",
+   "process": "59800.000849/2025-77",
+   "category": "TI",
+   "object": "Adobe Creative Cloud",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 1182.37,
+   "initial_value": 42565.5,
+   "current_value": 42565.5,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "",
+   "people": [
+    {
+     "name": "Lucynilla Braga",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "Mayara Azevedo Diniz",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Michel Alexandri Turco",
+     "role": "Fical Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "36 meses",
+   "start_date": "2026-01-26",
+   "end_date": "2029-01-26",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "REAL JG FACILITIES S.A.",
+   "number": "16/2024",
+   "process": "59800.000912/2023-11",
+   "category": "Copeiragem",
+   "object": "Copa",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": 40140.72,
+   "initial_value": 1869003.24,
+   "current_value": 2087317.44,
+   "has_apostille": true,
+   "apostille_text": "1° Termo de Apostilamento (0407045) - Repactuação CCT 2024\n2° Termo de Apostilamento (0473057)- Repactuação CCT 2026 / reajuste de insumos e materiais 4,68%",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Redução na jornada de trabalho",
+   "progress": "Em elaboração Termo Aditivo referente ao reembolso-creche",
+   "people": [
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Substituto"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": true,
+   "initial_term": "52 meses",
+   "start_date": "2024-11-04",
+   "end_date": "2029-03-08",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 1,
+   "apostille_count": 2,
+   "indefinite_end": false
+  },
+  {
+   "company": "EURO SEGURANÇA PRIVADA LTDA",
+   "number": "09/2024",
+   "process": "59800.000197/2024-90",
+   "category": "Vigilância",
+   "object": "Vigilância",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 34186.52,
+   "initial_value": 1799570.4,
+   "current_value": 2051191.2,
+   "has_apostille": true,
+   "apostille_text": "1° Termo de Apostilamento (0407895) - Repactuação CCT 2024\n2° Termo de Apostilamento (0455721) - Repactuação CCT 2025",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "* Aguardando empenho para aplicação do reembolso-creche\n *Aguardando o retorno da procuradoria Federal",
+   "people": [
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": true,
+   "initial_term": "60 meses",
+   "start_date": "2024-07-16",
+   "end_date": "2029-07-15",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 2,
+   "indefinite_end": false
+  },
+  {
+   "company": "J. M. VIAGENS E TURISMO LTDA",
+   "number": "11/2024",
+   "process": "59800.000107/2024-61",
+   "category": "Diárias e passagens",
+   "object": "Agencia de Turismo",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 90892.96,
+   "initial_value": 5453577.78,
+   "current_value": 5453577.78,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "60 meses",
+   "start_date": "2024-10-15",
+   "end_date": "2029-10-15",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": false
+  },
+  {
+   "company": "CONNECTOR ENGENHARIA LTDA",
+   "number": "14/2024",
+   "process": "59800.000381/2024-30",
+   "category": "Apoio administrativo",
+   "object": "Terceirização de mão de obra",
+   "owner": "Mariany",
+   "law": "Lei n. 14.133",
+   "monthly_value": 345398.65,
+   "initial_value": 18932920.05,
+   "current_value": 20723919.43,
+   "has_apostille": true,
+   "apostille_text": "1° Termo de Apostilamento (0435531) - Repactuação CCT 2025 (SISDF)\n2° Termo de Apostilamento (0445208)- Repactuação CCT 2025 (SIMTIMME)",
+   "has_amendment": true,
+   "amendment_text": "1° Termo Aditivo - Ajuste de erro material na tabela de objeto\n2° Termo Aditivo -  Redução na jornada de trabalho\n3° Termo Aditivo - Roneração gradual da folha de pagamento\n4° Termo Aditivo - Redução na jornada de trabalho  5° Termo Aditivo - Redução na jornada de trabalho 6° Termo Aditivo - Ajustes no IMR e na cobertura do posto de Técnico em Secretariado.",
+   "progress": "* Aguardando empenho para aplicação do reembolso-creche.                                                             * Aguardando manifestação da Procuradoria Federal.",
+   "people": [
+    {
+     "name": "Lucynila Braga",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "60 meses",
+   "start_date": "2024-10-24",
+   "end_date": "2029-10-24",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 6,
+   "apostille_count": 2,
+   "indefinite_end": false
+  },
+  {
+   "company": "SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)",
+   "number": "17/2024",
+   "process": "59800.000699/2024-11",
+   "category": "TI",
+   "object": "INFOVIA",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": 14131.79,
+   "initial_value": 817260,
+   "current_value": 847907.4,
+   "has_apostille": true,
+   "apostille_text": "1° Termo de Apostilamento (0475834) - Reajuste de 3,75%",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Michael Alexandre Turco",
+     "role": "Gestor Titular"
+    },
+    {
+     "name": "Georgia Carolina Capistrano",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Wagner Dantas da Silva",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Leandro Ferreria Lima",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "60 meses",
+   "start_date": "2024-12-10",
+   "end_date": "2029-12-10",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 1,
+   "indefinite_end": false
+  },
+  {
+   "company": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+   "number": "01/2026",
+   "process": "59800.001350/2025-87",
+   "category": "Correios",
+   "object": "Correios",
+   "owner": "Rafael",
+   "law": "Lei n. 14.133",
+   "monthly_value": 2195.25,
+   "initial_value": 26343,
+   "current_value": 26343,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "Ok",
+   "people": [
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Substituta"
+    },
+    {
+     "name": "Ernesto Lobão Figueiredo",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "INDETERMINADO",
+   "start_date": "2026-02-04",
+   "end_date": "",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": true
+  },
+  {
+   "company": "NEOENERGIA DISTRIBUICAO BRASIL",
+   "number": "2025-03-01",
+   "process": "59800.001353/2024-30",
+   "category": "Energia Eletrica",
+   "object": "Energia Eletrica",
+   "owner": "Renan",
+   "law": "Lei n. 14.133",
+   "monthly_value": 19520.72,
+   "initial_value": 234247.64,
+   "current_value": 234247.64,
+   "has_apostille": false,
+   "apostille_text": "",
+   "has_amendment": false,
+   "amendment_text": "",
+   "progress": "ok",
+   "people": [
+    {
+     "name": "Adriana Schelb da Rocha",
+     "role": "Gestora Titular"
+    },
+    {
+     "name": "Adriano de Souza Bezerra",
+     "role": "Fiscal Titular"
+    },
+    {
+     "name": "Jane Hecilia de Souza Dias",
+     "role": "Fiscal Substituto"
+    }
+   ],
+   "has_penalty": false,
+   "initial_term": "INDETERMINADO",
+   "start_date": "2025-08-01",
+   "end_date": "",
+   "extended": false,
+   "extendable": true,
+   "status": "ATIVO",
+   "dirty": false,
+   "amendment_count": 0,
+   "apostille_count": 0,
+   "indefinite_end": true
+  }
+ ],
+ "penalties": [
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de salários",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-04-01",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveis Procuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de salários",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-06-06",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de salários",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-07-05",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de salários",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-12-06",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de salários",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2025-02-06",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de férias",
+   "infraction_type": "Atraso no Pagamento de férias",
+   "infraction_date": "2024-09-09",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de férias",
+   "infraction_type": "Atraso no Pagamento de férias",
+   "infraction_date": "2024-11-08",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de férias",
+   "infraction_type": "Atraso no Pagamento de férias",
+   "infraction_date": "2025-01-13",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de férias",
+   "infraction_type": "Atraso no Pagamento de férias",
+   "infraction_date": "2025-02-10",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001051/2022-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso na homologação de rescisão.",
+   "infraction_type": "Atraso na homologação de recisão",
+   "infraction_date": "18/06/ 2025",
+   "progress": "Processo encaminhado à Procuradoria Federal para análise",
+   "next_step": "Em análise pela Procuradoria Federal",
+   "status": "Em análise pela cabíveisProcuradoria Federal",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001103/2024-08",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de salários maio/2024 e correção monetária de salários dos serviços prestados nos meses de abril e maio/2024",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-06-06",
+   "progress": "Parecer emitido - Fazer Ato (Ilda DILOG pediu uma reunião antes de publicar o ATO)",
+   "next_step": "Edital de Citação publicado, aguardando apresentação de recurso pela empresa. (0479158)",
+   "status": "Notificar por Edital",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.000913/2024-39",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento de salários abril/2024",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-05-07",
+   "progress": "Apensamento por conexão e economicidade processual",
+   "next_step": "Processo unificado ao Processo nº 59800.001103/2024-08 para continuidade da instrução processual. (0478548)",
+   "status": "Processo unificado",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001854/2024-16",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no pagamento das férias de 3 funcionarios.",
+   "infraction_type": "Atraso do Pagamento de férias",
+   "infraction_date": "2024-09-09",
+   "progress": "Processo concluído (0487506)",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-07-23"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.001343/2024-02",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Empresa foi  notificada, pela terceira vez, a prestar esclarecimentos a respeito de atraso no pagamento de salários dos colaboradores pelos serviços prestados no mês de junho/2024 e também pelo não atendimento à solicitação feita pela fiscalização do contrato, referente a correção monetária de salários, conforme determina a Súmula 381, do TST.",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-07-09",
+   "progress": "Notificação da aplicação da penalidade referente ao Contrato Administrativo 05/2022",
+   "next_step": "Processo unificado ao Processo nº 59800.001103/2024-08 para continuidade da instrução processual. (0478554)",
+   "status": "Processo unificado",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.002275/2024-91",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "A empresa deveria ter efetuado o pagamento até o dia  06/12/2024, porém só pagou os funcionários no dia 09/12/2024",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-12-09",
+   "progress": "Ato de aplicação de penalidade:Aguardando Assinaturo do DA",
+   "next_step": "Processo unificado ao Processo nº 59800.001103/2024-08 para continuidade da instrução processual. (478556)",
+   "status": "Processo unificado",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.000245/2025-21",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Não pagamento de salários dos colaboradores referente aos serviços prestados no mês de janeiro/2025",
+   "infraction_type": "Não pagamento de salários",
+   "infraction_date": "2025-02-06",
+   "progress": "Processo concluído (0474320)",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-04-16"
+  },
+  {
+   "company": "R7 FACILITIES - SERVICOS DE ENGENHARIA EIRELI",
+   "contract": "5/2022",
+   "process": "59800.000049/2025-56",
+   "contract_start": "2022-06-23",
+   "contract_end": "2025-06-23",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso de pagamento - empresa deveria ter efetuado o pagamento até o dia 20/12/2024, porém só pagou os funcionários no dia 26/12/2024 .",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-12-20",
+   "progress": "Ato de aplicação de penalidade (Conceder Prazo) possibilidade de arquivamento",
+   "next_step": "Notificar por Edital",
+   "status": "Notificar por Edital",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "FORTALEZA SERVIÇOS EMPRESARIAIS EIRELI",
+   "contract": "6/2022",
+   "process": "59800.000948/2024-78",
+   "contract_start": "2022-06-23",
+   "contract_end": "2024-10-23",
+   "service_type": "Tecnico em Secretariado",
+   "infraction": "Empresa foi notificada a respeito da não utilização dos uniforme por uma das colaboradoras, Erica Bianchini, que presta serviço na Sudeco, conforme estabelece o Termo de Referência",
+   "infraction_type": "Problemas com uniforme",
+   "infraction_date": "2024-06-20",
+   "progress": "Processo concluído (0427180)",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2025-06-06"
+  },
+  {
+   "company": "FORTALEZA SERVIÇOS EMPRESARIAIS EIRELI",
+   "contract": "6/2022",
+   "process": "59800.001724/2023-01",
+   "contract_start": "2022-06-23",
+   "contract_end": "2024-10-23",
+   "service_type": "Tecnico em Secretariado",
+   "infraction": "A empresa foi notificada a respeito da exigência contratual com relação a vedação do início das férias  com data de início numa sexta-feira-25/08/2023, assim como ter concedido férias antes do período aquisitivo a uma colaboradora.",
+   "infraction_type": "Inicio das férias em dia não permitido",
+   "infraction_date": "2023-08-25",
+   "progress": "Ato de aplicação de penalidade:Aguardando Assinaturo do DA",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2020-05-18"
+  },
+  {
+   "company": "FORTALEZA SERVIÇOS EMPRESARIAIS EIRELI",
+   "contract": "6/2022",
+   "process": "59800.001724/2023-01",
+   "contract_start": "2022-06-23",
+   "contract_end": "2024-10-23",
+   "service_type": "Tecnico em Secretariado",
+   "infraction": "A empresa foi notificada a respeito  do envio de documentos necessários para comprovação das experiências para ocupação dos postos de Técnico em Secretariado e Assistente Administrativo",
+   "infraction_type": "Postos sem cobertura",
+   "infraction_date": "2023-07-06",
+   "progress": "Ato de aplicação de penalidade:Aguardando Assinaturo do DA",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2020-05-18"
+  },
+  {
+   "company": "FORTALEZA SERVIÇOS EMPRESARIAIS EIRELI",
+   "contract": "6/2022",
+   "process": "59800.002195/2023-54",
+   "contract_start": "2024-06-18",
+   "contract_end": "2025-06-18",
+   "service_type": "Tecnico em Secretariado",
+   "infraction": "Empresa foi notificada sobre vedação legal de conceder férias com data de início numa sexta-feira, bem como o envio de documentos necessários  para ocupação dos postos de recepção, na Superintendência do Desenvolvimento do Centro-Oeste - SUDECO",
+   "infraction_type": "Inicio das férias em dia não permitido",
+   "infraction_date": "2023-03-03",
+   "progress": "Processo concluído (0433796)",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-03-25"
+  },
+  {
+   "company": "PROTECT SERVICES ADMINISTRAÇÃO E SERVIÇOS DE CONDOMÍNIO LTDA",
+   "contract": "1/2024",
+   "process": "59800.001089/2024-34",
+   "contract_start": "2024-03-08",
+   "contract_end": "2024-11-03",
+   "service_type": "COPA",
+   "infraction": "Manifestou anuência quanto à minuta de apólice enviada em 01/04/2024, já se passaram mais de 4 (quatro) meses que a empresa contratada está em mora na apresentação da garantia contratual sendo que o contrato está vigente a 5 (cinco) meses sem cobertura de garantia, o que, de acordo com o contrato, é situação apta a ensejar o pagamento de multa contratual e até mesmo extinção do contrato administrativo.",
+   "infraction_type": "Demora na apresentação da garantia",
+   "infraction_date": "2024-03-20",
+   "progress": "Ato de aplicação de penalidade: Ato de aplicação de penalidade redigido pela Adriana, em agosto, mas ainda não assinado pelo DA",
+   "next_step": "Conceder prazo para recurso",
+   "status": "Aguarando assinatura da aplicação de penalidade",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "PROTECT SERVICES ADMINISTRAÇÃO E SERVIÇOS DE CONDOMÍNIO LTDA",
+   "contract": "1/2024",
+   "process": "59800.001490/2024-74",
+   "contract_start": "2024-03-08",
+   "contract_end": "2024-11-03",
+   "service_type": "COPA",
+   "infraction": "A fiscalização do contrato comunicou a empresa pela não entrega dos materiais dos serviços prestados no mês de agosto/2024 e ainda reiterou as pendências dos meses de junho e julho/2024 (0403671).",
+   "infraction_type": "Não entrega de materiais",
+   "infraction_date": "2024-08-08",
+   "progress": "Defesa Prévia: Destinatário mudou-se (0439064) Notificar por meio do DOU\n\nObs: A Nota Técnica 0436864 deve ser encaminhada para o jurídico somente após defesa prévia",
+   "next_step": "Encaminhar para análise jurídica",
+   "status": "Em análise jurídica / Aguardando decisão final",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "PROTECT SERVICES ADMINISTRAÇÃO E SERVIÇOS DE CONDOMÍNIO LTDA",
+   "contract": "1/2024",
+   "process": "59800.001437/2024-73",
+   "contract_start": "2024-03-08",
+   "contract_end": "2024-11-03",
+   "service_type": "COPA",
+   "infraction": "No dia 04/07/2024, por meio de mensagem eletrônica  (0402660), a empresa foi comunicada sobre o atraso de pagamento do Vale Transporte e Alimentação, desde o inicio do contrato",
+   "infraction_type": "Atraso de VA e VT",
+   "infraction_date": "2024-07-04",
+   "progress": "Defesa prévia: Após duas tentativas (0439065 e 0439253), destinatário não encontrado Notificar por meio do DOU\n\nObs: Não haverá abertura de sinistro, porque a empresa não apresentou garantia",
+   "next_step": "Analisar defesa prévia",
+   "status": "Assinatura do Edital de Intimação para apresentação de Defesa Prévia.",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "PROTECT SERVICES ADMINISTRAÇÃO E SERVIÇOS DE CONDOMÍNIO LTDA",
+   "contract": "1/2024",
+   "process": "59800.001759/2024-12",
+   "contract_start": "2024-03-08",
+   "contract_end": "2024-11-03",
+   "service_type": "COPA",
+   "infraction": "No dia 12/09/2024, por meio de mensagem eletrônica (0408829), a fiscalização solicitou que a empresa realizasse a primeira substituição dos uniformes até setembro/2024, pois a cada 6 meses deve ser realizada a troca.",
+   "infraction_type": "Problemas com uniforme",
+   "infraction_date": "2024-09-12",
+   "progress": "Defesa prévia: Após duas tentativas (0439067 e 0439264), destinatário não encontrado Notificar por meio do DOU\n\nObs: Não haverá abertura de sinistro, porque a empresa não apresentou garantia",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-07-23"
+  },
+  {
+   "company": "PROTECT SERVICES ADMINISTRAÇÃO E SERVIÇOS DE CONDOMÍNIO LTDA",
+   "contract": "1/2024",
+   "process": "59800.001394/2024-26",
+   "contract_start": "2024-03-08",
+   "contract_end": "2024-11-03",
+   "service_type": "COPA",
+   "infraction": "No mês de maio/2024, a empresa foi comunicada a respeito da entrega de 06 (seis) coadores de café fora das especificações estabelecidas no Termo de Referência (0389439).  Além disso, foi enviada mensagem eletrônica a respeito da entrega parcial dos materiais de consumo referente aos serviços do mês de junho (0402054; 0402055) e da não entrega de nenhum dos itens dos materiais do mês de julho (0402057).",
+   "infraction_type": "Não entrega de materiais",
+   "infraction_date": "2024-06-11",
+   "progress": "Processo Arquivado 0422190\nestá sendo tratado de maneira conjunta do processo 59800001490/2024-74",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2025-02-17"
+  },
+  {
+   "company": "PROTECT SERVICES ADMINISTRAÇÃO E SERVIÇOS DE CONDOMÍNIO LTDA",
+   "contract": "1/2024",
+   "process": "59800.001436/2024-29",
+   "contract_start": "2024-03-08",
+   "contract_end": "2024-11-03",
+   "service_type": "COPA",
+   "infraction": "A empresa foi comunicada, por mensagem eletrônica (0402647), sobre o atraso do salário dos colaboradores, referentes aos serviços prestados no mês de abril/2024. O pagamento deveria ter ocorrido no dia 07/05/2024, e só foi realizado no dia 08/05/2024 conforme transferência bancária (0403237)",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2024-05-08",
+   "progress": "Processo Arquivado 0422200\nEssa penalidade está sendo tratada de maneira conjunto no processo 59800001490/2024-74",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2025-02-17"
+  },
+  {
+   "company": "PROTECT SERVICES ADMINISTRAÇÃO E SERVIÇOS DE CONDOMÍNIO LTDA",
+   "contract": "1/2024",
+   "process": "59800.001438/2024-18",
+   "contract_start": "2024-03-08",
+   "contract_end": "2024-11-03",
+   "service_type": "COPA",
+   "infraction": "No dia 15/07/2024, por meio de mensagem eletrônica (0402671), a empresa foi comunicada sobre ausência de cobertura do posto de copeira do 18º andar, desde o dia 12/07/2024. Como não houve atendimento à solicitação da fiscalização e, nos dias 16 e 17/07/2024, o posto permaneceu descoberto.",
+   "infraction_type": "Postos sem cobertura",
+   "infraction_date": "2024-07-12",
+   "progress": "Processo Arquivado 0422212\nEssa penalidade está sendo tratada de maneira conjunta no processo 59800001490/2024-74",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2025-02-17"
+  },
+  {
+   "company": "EURO SEGURANÇA PRIVADA LTDA",
+   "contract": "9/2024",
+   "process": "59800.001177/2025-17",
+   "contract_start": "2024-07-16",
+   "contract_end": "2029-07-15",
+   "service_type": "Vigilancia",
+   "infraction": "Entrega de Uniforme / PROCESSO UNIFICADO",
+   "infraction_type": "Problemas com uniforme",
+   "infraction_date": "2025-07-03",
+   "progress": "Processo unificado ao processo 59800001285/2025-90",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-05-07"
+  },
+  {
+   "company": "EURO SEGURANÇA PRIVADA LTDA",
+   "contract": "9/2024",
+   "process": "59800.001840/2025-83",
+   "contract_start": "2024-07-16",
+   "contract_end": "2029-07-15",
+   "service_type": "Vigilancia",
+   "infraction": "Atraso no pagamento dos salários no mês de setembro de 2025",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2025-10-07",
+   "progress": "Processo unificado ao processo 59800001285/2025-91",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-05-07"
+  },
+  {
+   "company": "EURO SEGURANÇA PRIVADA LTDA",
+   "contract": "9/2024",
+   "process": "59800.001840/2025-83",
+   "contract_start": "2024-07-16",
+   "contract_end": "2029-07-15",
+   "service_type": "Vigilancia",
+   "infraction": "Atraso no pagamento do vale alimentação do mês de outubro, do intrajornada e dos respectivos retroativos devidos aos seus colaboradores pelo serviço prestado",
+   "infraction_type": "Atraso de VA e VT",
+   "infraction_date": "2025-10-07",
+   "progress": "Processo unificado ao processo 59800001285/2025-91",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-05-07"
+  },
+  {
+   "company": "EURO SEGURANÇA PRIVADA LTDA",
+   "contract": "9/2024",
+   "process": "59800.001840/2025-83",
+   "contract_start": "2024-07-16",
+   "contract_end": "2029-07-15",
+   "service_type": "Vigilancia",
+   "infraction": "Atraso no pagamento do intrajornada e dos respectivos retroativos devidos aos seus colaboradores pelo serviço prestado",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2025-10-07",
+   "progress": "Processo unificado ao processo 59800001285/2025-91",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-05-07"
+  },
+  {
+   "company": "EURO SEGURANÇA PRIVADA LTDA",
+   "contract": "9/2024",
+   "process": "59800.001285/2025-90",
+   "contract_start": "2024-12-26",
+   "contract_end": "2027-12-26",
+   "service_type": "Vigilancia",
+   "infraction": "Atraso no pagamento de salário dos meses de junho e julho",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2025-06-08",
+   "progress": "Analisar Defesa Prévia 0437804 (Foi encaminhado para CTIC analisar 0439400)",
+   "next_step": "Aguardando CTIC e depois Encaminhar para o jurídico",
+   "status": "Enviado Ofício - Aplicação de penalidade",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "BRASOFTWARE INFORMÁTICA LTDA",
+   "contract": "18/2024",
+   "process": "59800.000650/2025-49",
+   "contract_start": "2024-12-26",
+   "contract_end": "2027-12-26",
+   "service_type": "Fornecimento de licenças Microsoft",
+   "infraction": "Atraso na disponibilização das licenças",
+   "infraction_type": "Atraso na disponibilização das licenças",
+   "infraction_date": "2025-04-25",
+   "progress": "Instrução processual concluída Aguardando análise jurídica da Procuradoria Federal junto à SUDECO, antes da decisão final da autoridade competente sobre a aplicação da sanção de advertência",
+   "next_step": "Aguardando manifestação da Procuradoria Federal junto à SUDECO",
+   "status": "Aguardando manifestação da Procuradoria Federal junto à SUDECO quanto à legalidade do procedimento e posterior decisão da autoridade competente.  ( 0487605)",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "REAL JG FACILITIES S.A.",
+   "contract": "16/2024",
+   "process": "59800.002252/2024-86",
+   "contract_start": "2024-11-04",
+   "contract_end": "2029-03-08",
+   "service_type": "Serviços terceirizados",
+   "infraction": "Atraso no pagamento do vale alimentação dos colaboradores pertencentes ao Contrato Administrativo nº 16/2024",
+   "infraction_type": "Atraso no fornecimento do vale-alimentação.",
+   "infraction_date": "2024-11-13",
+   "progress": "Empresa não apresentou Defesa Prévia Elaborar Nota Técnica",
+   "next_step": "Encaminhar para o jurídico",
+   "status": "Aguardando decisão da autoridade competente quanto ao arquivamento do processo.",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.000333/2022-80",
+   "contract_start": "2019-02-18",
+   "contract_end": "2020-02-17",
+   "service_type": "Recepção",
+   "infraction": "Postos sem cobertura",
+   "infraction_type": "Postos sem cobertura",
+   "infraction_date": "2021-11-24",
+   "progress": "Execução de Multa",
+   "next_step": "Encaminhar para procuradoria",
+   "status": "Encaminhar para procuradoria",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.000333/2022-80",
+   "contract_start": "2019-02-18",
+   "contract_end": "2020-02-17",
+   "service_type": "Recepção",
+   "infraction": "Postos sem cobertura",
+   "infraction_type": "Postos sem cobertura",
+   "infraction_date": "2021-11-25",
+   "progress": "Execução de Multa",
+   "next_step": "Encaminhar para procuradoria",
+   "status": "Encaminhar para procuradoria",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.000333/2022-80",
+   "contract_start": "2019-02-18",
+   "contract_end": "2020-02-17",
+   "service_type": "Recepção",
+   "infraction": "Atraso no pagamento de salários",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2021-12-16",
+   "progress": "Execução de Multa",
+   "next_step": "Encaminhar para procuradoria",
+   "status": "Encaminhar para procuradoria",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.000333/2022-80",
+   "contract_start": "2019-02-18",
+   "contract_end": "2020-02-17",
+   "service_type": "Recepção",
+   "infraction": "Atraso de pagamento do Vale Transporte e Alimentação",
+   "infraction_type": "Atraso de VA e VT",
+   "infraction_date": "2021-12-15",
+   "progress": "Execução de Multa",
+   "next_step": "Encaminhar para procuradoria",
+   "status": "Encaminhar para procuradoria",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.000333/2022-80",
+   "contract_start": "2019-02-18",
+   "contract_end": "2020-02-17",
+   "service_type": "Recepção",
+   "infraction": "Não fornecimento de uniformes",
+   "infraction_type": "Problemas com uniforme",
+   "infraction_date": "2021-11-30",
+   "progress": "Execução de Multa",
+   "next_step": "Encaminhar para procuradoria",
+   "status": "Encaminhar para procuradoria",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.000333/2022-80",
+   "contract_start": "2019-02-18",
+   "contract_end": "2020-02-17",
+   "service_type": "Recepção",
+   "infraction": "Ausência de recolhimento de FGTS e INSS",
+   "infraction_type": "Problemas com FGTS e INSS",
+   "infraction_date": "2022-05-04",
+   "progress": "Execução de Multa",
+   "next_step": "Encaminhar para procuradoria",
+   "status": "Encaminhar para procuradoria",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.000333/2022-80",
+   "contract_start": "2019-02-18",
+   "contract_end": "2020-02-17",
+   "service_type": "Recepção",
+   "infraction": "Abandono do contrato com pendências trabalhistas e contratuais",
+   "infraction_type": "Descumprimento de obrigações trabalhistas",
+   "infraction_date": "2022-02-17",
+   "progress": "Execução de Multa",
+   "next_step": "Encaminhar para procuradoria",
+   "status": "Encaminhar para procuradoria",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.002456/2021-74",
+   "contract_start": "2019-02-18",
+   "contract_end": "2022-02-17",
+   "service_type": "Recepção",
+   "infraction": "Atraso de pagamento",
+   "infraction_type": "Atraso de salário",
+   "infraction_date": "2021-11-08",
+   "progress": "Processo encaminhado à Procuradoria Federal para verificação de saldo remanescente antes da inscrição em dívida ativa",
+   "next_step": "Encaminhamento à ENAC para inscrição em Dívida Ativa e cobrança judicial da multa administrativa.",
+   "status": "Aguardando quitação da multa",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "SOUSA & SILVA SUPERA SERVIÇOS EMPRESARIAIS LTDA - ME",
+   "contract": "2/2019",
+   "process": "59800.002456/2021-74",
+   "contract_start": "2019-02-18",
+   "contract_end": "2022-02-17",
+   "service_type": "Recepção",
+   "infraction": "Atraso de pagamento do Vale Transporte e Alimentação",
+   "infraction_type": "Atraso de VA e VT",
+   "infraction_date": "2021-11-01",
+   "progress": "Processo encaminhado à Procuradoria Federal para verificação de saldo remanescente antes da inscrição em dívida ativa",
+   "next_step": "Encaminhamento à ENAC para inscrição em Dívida Ativa e cobrança judicial da multa administrativa.",
+   "status": "Aguardando quitação da multa",
+   "conclusion_date": "Não concluída"
+  },
+  {
+   "company": "ALFA E ÔMEGA SERVIÇOS TERCEIRIZADOS LTDA",
+   "contract": "2/2025",
+   "process": "59800.000111/2026-91",
+   "contract_start": "2025-05-15",
+   "contract_end": "2028-03-31",
+   "service_type": "Apoio ADM",
+   "infraction": "Atraso no preenchimento dos postos de trabalho previstos no contrato.",
+   "infraction_type": "Postos sem cobertura",
+   "infraction_date": "2025-05-15",
+   "progress": "Processo concluído (0477551)",
+   "next_step": "Arquivamento do processo",
+   "status": "Finalizado",
+   "conclusion_date": "2026-05-12"
+  }
+ ]
+}
