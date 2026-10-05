@@ -12,14 +12,13 @@ edições valem apenas na aba atual e **voltam ao original ao recarregar a pági
 ## Como rodar localmente
 
 O site precisa ser servido por HTTP (abrir o `index.html` direto pelo arquivo
-não funciona, pois o navegador bloqueia a leitura de `data/seed.json`). Qualquer
-servidor estático serve:
+não funciona, pois o navegador bloqueia a leitura de `data/seed.json`). Precisa
+de **Node.js**:
 
 ```bash
 cd ~/Desktop/sudeco-contratos
-npm start                 # python3 -m http.server 8000
-# ou: python3 -m http.server 8000
-# ou: npx serve .
+npm install   # só na primeira vez (baixa o serve)
+npm start     # serve . -l 8000
 ```
 
 Acesse <http://localhost:8000>. Para parar: `Ctrl+C`.

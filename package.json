@@ -4,6 +4,9 @@
   "private": true,
   "description": "Protótipo de gestão de contratos SUDECO — site estático com store em memória",
   "scripts": {
-    "start": "python3 -m http.server 8000"
+    "start": "serve . -l 8000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
   }
 }
